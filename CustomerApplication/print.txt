@@ -1,0 +1,6 @@
+MovieID:1	Title:Anvengers: Endgame	Director:Joe and Anthony Russo	Writer:b	ReleaseDate:27/05/2019	Trailernull	Description:Amazing	Rating:9	Genre:Sci-fi,Action,Fantasy,Drama	Producer:null	Price:150	Copies:8
+
+MovieID:2	Title:Jonh Wick	Director:a	Writer:a	ReleaseDate:14/06/2019	Trailernull	Description:Awesome	Rating:8.7	Genre:Action	Producer:null	Price:150	Copies:9
+
+MovieID:3	Title:Spiderman:Far from home	Director:b	Writer:c	ReleaseDate:17/07/2019	Trailernull	Description:Cool	Rating:8.5	Genre:Sci-fi	Producer:null	Price:150	Copies:5
+
